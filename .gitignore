@@ -1,0 +1,5 @@
+*.local
+.DS_Store
+out-of-date.json
+update-check.json
+locks/
