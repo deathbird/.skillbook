@@ -1,6 +1,79 @@
 {
   "schema": 1,
-  "skills": {},
+  "skills": {
+    "get-api-docs": {
+      "version": 1,
+      "hash": "sha256:63a4dd1b09b01c2eac30d16d74b14376dbd20e91b666a8a7f42fa182f578066f"
+    },
+    "api-designer": {
+      "version": 1,
+      "hash": "sha256:956e447dc7023ddedbd5dfe0a9b36986d20d4e1ec0d26c09afa5750017b836c4"
+    },
+    "architecture-designer": {
+      "version": 1,
+      "hash": "sha256:d5b53414239d26c9bca9f249e2bda60a269610dc31b3788919e0a5e2dbf9568b"
+    },
+    "cli-developer": {
+      "version": 1,
+      "hash": "sha256:1d2028edad33338e626ba02755e7c5a44cb4cc0537ea63c167be3320eddf5949"
+    },
+    "code-documenter": {
+      "version": 1,
+      "hash": "sha256:75c084d9fb166ee8189b9c3bde313ee2545acb85f2e2156ec65ce7ff00604db4"
+    },
+    "code-reviewer": {
+      "version": 1,
+      "hash": "sha256:e4690bc515a3edf958d075e0228889958e60a0b95baef5c89695efe05a4c57e8"
+    },
+    "database-optimizer": {
+      "version": 1,
+      "hash": "sha256:7b1a0135971b612a60d43fa244f0aa88a0873cb7866a14ae2bfd3d0af011b558"
+    },
+    "debugging-wizard": {
+      "version": 1,
+      "hash": "sha256:d3f33a613adbd4bb271c40be9ce3274eb29259df0d5d3bb519016eaa633b9166"
+    },
+    "django-expert": {
+      "version": 1,
+      "hash": "sha256:75869f016c1911f1477967600bec4e0aae2e7fae4f355f30b3a03eb18f9a8b26"
+    },
+    "javascript-pro": {
+      "version": 1,
+      "hash": "sha256:6145185dac7119410d5a29ad3cc2133e14def71503932d47c967656d05e724fb"
+    },
+    "cloud-architect": {
+      "version": 1,
+      "hash": "sha256:bada01328535c350ef4fe6fdc3a43bbd3582b383de075d02957844020f150440"
+    },
+    "kubernetes-specialist": {
+      "version": 1,
+      "hash": "sha256:6a85e8d2e0ffafa0447776608fdb578705a90bff6a31b6c1e249451de0b8b4a1"
+    },
+    "microservices-architect": {
+      "version": 1,
+      "hash": "sha256:819fc81a3d195e30c8abfe48cd9494ff54e1f13323f985e995bd99fb630b692f"
+    },
+    "monitoring-expert": {
+      "version": 1,
+      "hash": "sha256:1c3e2b54f561a7956002de0bbea8bd5c57c98ef035caf6494dda3355d9ebc34c"
+    },
+    "postgres-pro": {
+      "version": 1,
+      "hash": "sha256:4d50ce7f39f9fbaf46057711a9c170ffff499e9e9cc94f7b27b6356973041913"
+    },
+    "sql-pro": {
+      "version": 1,
+      "hash": "sha256:ad1c904d60fbd54c29da71caaf571a8f51d072517c69dec95768c91d149d44bd"
+    },
+    "php-pro": {
+      "version": 1,
+      "hash": "sha256:a6a85151ece8c9c38e54b4cbc99bf0d90189b80020d9ab7a04dc30258bae4787"
+    },
+    "wordpress-pro": {
+      "version": 1,
+      "hash": "sha256:ef2d41d1f5585efd39ca783c9d03ef1f26e6ac6ac6ad86c4446b87bc1fd07d47"
+    }
+  },
   "harnesses": [],
   "harnessModes": {}
 }
