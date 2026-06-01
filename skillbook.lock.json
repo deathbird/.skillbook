@@ -3,7 +3,7 @@
   "skills": {
     "get-api-docs": {
       "version": 1,
-      "hash": "sha256:63a4dd1b09b01c2eac30d16d74b14376dbd20e91b666a8a7f42fa182f578066f"
+      "hash": "sha256:7e363a93835542071df24eff1e5aa202775db701f375e1eac487fa42d7beb1a6"
     },
     "api-designer": {
       "version": 1,
@@ -72,6 +72,10 @@
     "wordpress-pro": {
       "version": 1,
       "hash": "sha256:ef2d41d1f5585efd39ca783c9d03ef1f26e6ac6ac6ad86c4446b87bc1fd07d47"
+    },
+    "skillbook": {
+      "version": 1,
+      "hash": "sha256:f13f446be8cfef3a08153ec34f8313546b8a361ae26d3d66aa1ffa78633e8679"
     }
   },
   "harnesses": [],
